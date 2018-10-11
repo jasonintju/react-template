@@ -1,12 +1,12 @@
 {
-  "name": "optimizing-js",
-  "version": "1.0.0",
+  "name": "{{projectName}}",
+  "version": "{{projectVersion}}",
+  "description": "{{projectDescription}}",
   "sideEffects": [
     "*.css",
     "*.scss",
     "*.sass"
   ],
-  "description": "",
   "private": true,
   "scripts": {
     "start": "npm run dev",
